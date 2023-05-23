@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate post of social media about [Product Name of Shop Name].
 Your output should use the following template:
 - ✅Order Click >> [Insert Online Shopping link here]

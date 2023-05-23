@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate post of social media about [Place Name].
 Your output should use the following template:
 - [Emoji] Place Name

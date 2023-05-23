@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate 1 paragraph of post social media about [Topic Name] with emoji in paragraph and hastag new line.
 ```
 

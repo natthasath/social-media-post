@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate post of social media about [Job Name] of [Company Name] in [Date Period].
 Your output should use the following template:
 - [Emoji] Job Name

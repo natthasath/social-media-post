@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate post of social media about [Resort Name] booking period [Booking Period] check-in period [Check-in Period].
 Your output should use the following template:
 - [Emoji] Price Promotion / night

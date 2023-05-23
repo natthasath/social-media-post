@@ -3,7 +3,7 @@
 ### Prompt: 
 ___
 
-```
+```text
 Generate post of social media about Photo Album of [Model Name] by [Photographer Name] exclusive with [Facebook Page Name].
 Your output should use the following template:
 - [Emoji] "Model : " Model Name
