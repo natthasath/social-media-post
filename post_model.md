@@ -13,6 +13,7 @@ Your output should use the following template:
 ___________________________________________
 
 - [Emoji] "Exclusive with " Exclusive with in double quote
+
 - Hashtag new line
 ```
 
@@ -27,5 +28,6 @@ IG: @natthasath
 ___________________________________________
 
 🔒🎉 Exclusive with "CupE"
+
 #RaeLilBlack #NatthasathSaksupanara #ExclusiveShoot #CupEPhotography
 ```
