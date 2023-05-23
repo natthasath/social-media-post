@@ -10,6 +10,7 @@ Your output should use the following template:
 - [Emoji] Check-in Period
 - [Emoji] Line
 - [Emoji] Phone
+
 - Hashtag new line
 ```
 
@@ -21,5 +22,6 @@ ___
 🏨 Check-in Period: 2 August 2024 - 30 August 2024
 🟩 Line: [Insert Line ID]
 📞 Phone: [Insert Phone Number]
+
 #RachakiriResortAndSpa #BookNow #TravelThailand #Relaxation #Getaway
 ```
