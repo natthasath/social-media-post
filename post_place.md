@@ -4,7 +4,7 @@
 ___
 
 ```
-Generate post of social media about [Siam Paragon in Thailand].
+Generate post of social media about [Place Name].
 Your output should use the following template:
 - [Emoji] Place Name
 - [Emoji] Detail of Place
