@@ -10,7 +10,8 @@ Your output should use the following template:
 - IG
 - [Emoji] "Photographer : " Photographer Name
 - IG
-——————————————
+___________________________________________
+
 - [Emoji] "Exclusive with " Exclusive with in double quote
 - Hashtag new line
 ```
@@ -23,8 +24,7 @@ ___
 IG: @raelilblack
 📷🌺 Photographer: Natthasath Saksupanara 🌼
 IG: @natthasath
-
-——————————————
+___________________________________________
 
 🔒🎉 Exclusive with "CupE"
 #RaeLilBlack #NatthasathSaksupanara #ExclusiveShoot #CupEPhotography
