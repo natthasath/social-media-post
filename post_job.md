@@ -11,6 +11,7 @@ Your output should use the following template:
 - [Emoji] Date Period
 - [Emoji] Job Detail Click >> [Insert Job Detail link here]
 - [Emoji] Phone
+
 - Hashtag new line
 ```
 
@@ -23,5 +24,6 @@ ___
 ⏰ Date Period: 2 August 2023 - 30 August 2023
 🔍 Job Detail Click >> [Insert Job Detail link here]
 📞 Phone: [Insert Phone]
+
 #JobOpportunity #Hiring #DatabaseAdministrator #OracleThailand #CareerGrowth #ApplyNow
 ```
