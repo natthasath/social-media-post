@@ -4,7 +4,7 @@
 ___
 
 ```
-Generate post of social media about [Shaved Ice of After You Thailand].
+Generate post of social media about [Product Name of Shop Name].
 Your output should use the following template:
 - ✅Order Click >> [Insert Online Shopping link here]
 - ✅Order Click >> [Insert Online Shopping link here]
