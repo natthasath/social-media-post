@@ -10,7 +10,7 @@ Your output should use the following template:
 - [Emoji] Detail of Place
 - [Emoji] Business Day
 - [Emoji] Business Time
-- [Emoji] Travel
+- [Emoji] Arrival by BTS
 - [Emoji] Google Maps
 ```
 
@@ -27,7 +27,7 @@ ___
 
 🛍️ Shop till you drop, indulge in luxury brands, and discover unique treasures at Siam Paragon! This iconic shopping destination in Bangkok, Thailand, offers an extraordinary retail experience for all fashion enthusiasts and trendsetters. From high-end fashion boutiques to exquisite jewelry stores, Siam Paragon has it all!
 
-🌍 Travel to Bangkok and immerse yourself in the vibrant atmosphere of Siam Paragon. Whether you're hunting for the latest fashion trends or seeking a one-of-a-kind gift, this place has something to satisfy every taste.
+🚇 Arriving at Siam Paragon is a breeze with the BTS Skytrain. Simply hop on the train and make your way to the Siam station, where our shopping paradise awaits just a short walk away.
 
 📍 Find your way easily with Google Maps: [Insert Google Maps link here]
 
